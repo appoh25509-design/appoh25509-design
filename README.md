@@ -23,4 +23,4 @@ codici nuovi o qualcosa come html
 riuscire a scrivere con una serie di codici un videogioco
 
 ## 🎯 Guardando al futuro
-spero mi aggiungano in qualche azienda inerente all informatica 
+spero mi facciano sponsorizzare prodotti online oppure mi va bene lavorare dentro un azienta basta che centri linformatica
