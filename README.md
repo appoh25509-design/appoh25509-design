@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ciao! 👋
 
-<!--
-**appoh25509-design/appoh25509-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-Here are some ideas to get you started:
+## 👤 Qualcosa su di me 
+sono Carlo Appoh mi piace uscire con gli amici 
+## ❤️ Le mie passioni
+-basket
+-palestra
+-videogiochi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologia ed esperienze
+Ho già avuto occasione di utilizzare o conoscere:
+-Html
+## 🧠 Una cosa che potrei insegnare ai miei compagni
+a riuscire a mostrarsi al mondo senza vergogna e paura di nulla
+
+## 🔍 Cosa mi piacerebbe imparare
+codici nuovi o qualcosa come html 
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+riuscire a scrivere con una serie di codici un videogioco
+
+## 🎯 Guardando al futuro
+spero mi aggiungano in qualche azienda inerente all informatica 
